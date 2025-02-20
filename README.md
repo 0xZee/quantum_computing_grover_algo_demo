@@ -2,7 +2,7 @@
 
 This notebook demonstrates how to implement Grover's algorithm using Qiskit Runtime. Grover's algorithm is a quantum algorithm that can be used to search an unsorted database with N entries in O(√N) time.
 
-[➡️ NOTEBOOK ⚛️]()
+[➡️ NOTEBOOK ⚛️](qc_gover_algo_ibm.ipynb)
 
 ## Requirements
 
